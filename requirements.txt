@@ -1,0 +1,6 @@
+# Validated target: Python 3.13, read-only dashboard (no saved ML pickle).
+# Install these exact versions in CI / Streamlit Cloud for repeatability.
+streamlit==1.66.1
+pandas==2.2.3
+numpy==2.3.5
+plotly==6.5.2
